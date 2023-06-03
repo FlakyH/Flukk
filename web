@@ -1,0 +1,16 @@
+{
+  "content": "Если интересна игра и хочется найти друзей по разуму:",
+  "embeds": [
+    {
+      "description": "Deceit - ",
+      "color": null,
+      "author": {
+        "name": "Игры"
+      },
+      "footer": {
+        "text": "Просто клини на интерисующий значек"
+      }
+    }
+  ],
+  "attachments": []
+}
